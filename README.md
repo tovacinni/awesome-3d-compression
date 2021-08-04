@@ -2,10 +2,6 @@
 
 This is very much work in progress. The categorizations etc are very likely to change.
 
-## Standards
-
-**[MPEG-I: Coded Representation of Immersive Media](https://mpeg.chiariglione.org/standards/mpeg-i)**<br>
-
 ## Related Surveys / Position Papers
 
 **[Compression is Again Driving the Evolution of Media](https://medium.com/making-vr-human/compression-is-again-driving-the-evolution-of-media-ac77d599d27b#.279r7yezk)**<br>
@@ -19,13 +15,49 @@ IEEE Communications Magazine 2020<br>
 *Tarik Taleb, Zinelaabidine Nadir, Hannu Flinck, JaeSeung Song*<br>
 IEEE Communications Standards Magazine 2021<br>
 
+## Standards
+
+**[MPEG-I: Coded Representation of Immersive Media](https://mpeg.chiariglione.org/standards/mpeg-i)**<br>
+
+**[Emerging MPEG Standards for Point Cloud Compression](https://ieeexplore.ieee.org/document/8571288)**<br>
+*Sebastian Schwarz, Marius Preda, Madhukar Budagavi, Pablo Cesar, Philip A. Chou, Robert A. Cohen, Maja Krivokuca, Sebastien Lasserre, Zhu Li, Joan Llach, Khaled Mammou, Rufael Mekuria, Ohji Nakagami, Ernestasia Siahaan, Ali Tabatabai, Alexis M. Tourapis, Vladyslav Zakharchenko*<br>
+IEEE JETCAS 2019
+
+**[A Comprehensive Study and Comparison of Core Technologies for MPEG 3-D Point Cloud Compression](https://ieeexplore.ieee.org/document/8945224)**<br>
+*Hao Liu, Hui Yuan, Qi Liu, Junhui Hou, Ju Liu*<br>
+IEEE Transactions on Broadcasting 2019<br>
+
+**[An overview of ongoing point cloud compression standardization activities: video-based (V-PCC) and geometry-based (G-PCC)](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/an-overview-of-ongoing-point-cloud-compression-standardization-activities-videobased-vpcc-and-geometrybased-gpcc/56FCAF660DD44348BCB1BCA9B5EC56CF)**<br>
+*D. Graziosi, O. Nakagami, S. Kuma, A. Zaghetto, T. Suzuki, A. Tabatabai*
+APSIPA Transactions on Signal and Information Processing 2020
+
 ## Systems Papers
 
 **[Holoportation: Virtual 3D Teleportation in Real-time](https://dl.acm.org/doi/10.1145/2984511.2984517)**<br>
 *Sergio Orts-Escolano, Christoph Rhemann, Sean Fanello, Wayne Chang, Adarsh Kowdle, Yury Degtyarev, David Kim, Philip L Davidson, Sameh Khamis, Mingsong Dou, Vladimir Tankovich, Charles Loop, Qin Cai, Philip A Chou, Sarah Mennicken, Julien Valentin, Vivek Pradeep, Shenlong Wang, Sing Bing Kang, Pushmeet Kohli, Yuliya Lutchyn, Cem Keskin, Shahram Izadi*<br>
 ACM UIST 2016<br>
 
+## Point Clouds
+
+### Compression
+
+**[Self-similarity for accurate compression of point sampled surfaces](https://perso.liris.cnrs.fr/julie.digne/articles/pc_compression.html)**<br>
+*Julie Digne, Raphaelle Chaine, Sebastien Valette*<br>
+Eurographics 2014
+
+**[3D point cloud compression using conventional image compression for efficient data transmission](https://ieeexplore.ieee.org/document/7340499)**<br>
+*Hamidreza Houshiar, Andreas Nuchter*
+IEEE ICAT 2015
+
+**[Compression and Rendering of Textured Point Clouds via Sparse Coding](https://diglib.eg.org/handle/10.2312/hpg20211284)**<br>
+*Kersten Schuster, Philip Trettner, Patric Schmitz, Julian Schakib, Leif Kobbelt*<br>
+HPG 2021
+
 ## Voxelized Point Clouds
+
+We draw a slight distinction between point clouds and voxelized point clouds. The latter is quantized into
+integer coordinates, while the general class of point clouds are still often quantized but not necessarily
+into a regular grid.
 
 **[A Volumetric Approach to Point Cloud Compression—Part I: Attribute Compression](https://ieeexplore.ieee.org/document/8676054)**<br>
 *Philip A. Chou, Maxim Koroteev, Maja Krivokuca*<br>
@@ -36,6 +68,14 @@ IEEE Transactions of Image Processing
 IEEE Transactions of Image Processing
 
 ### Compression
+
+**[Compression of 3D Point Clouds Using a Region-Adaptive Hierarchical Transform](https://ieeexplore.ieee.org/document/7482691)**<br>
+*Ricardo L. de Queiroz, Philip A. Chou*<br>
+IEEE Transactions on Image Processing 2016
+
+**[Geometry and attribute compression for voxel scenes](https://dl.acm.org/doi/10.5555/3058909.3058962)**<br>
+*Bas Dado, Timothy R. Kol, Pablo Bauszat, Jean-Marc Thiery, Elmar Eisemann*<br>
+Eurographics 2016
 
 **[Real-time compression and streaming of 4D performances](https://dl.acm.org/doi/abs/10.1145/3272127.3275096)**<br>
 *Danhang Tang, Mingsong Dou, Peter Lincoln, Philip Davidson, Kaiwen Guo, Jonathan Taylor, Sean Fanello, Cem Keskin, Adarsh Kowdle, Sofien Bouaziz, Shahram Izadi, Andrea Tagliasacchi*<br>
@@ -56,6 +96,10 @@ NeurIPS 2020
 **[Region adaptive graph fourier transform for 3d point clouds](https://arxiv.org/abs/2003.01866)**<br>
 *Eduardo Pavez, Benjamin Girault, Antonio Ortega, Philip A. Chou*<br>
 IEEE ICIP 2020
+
+**[Moving Basis Decomposition for Precomputed Light Transport](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14346)**<br>
+*Ari Silvennoinen, Peter-Pike Sloan*
+EGSR 2021
 
 ### Adaptive Streaming
 
