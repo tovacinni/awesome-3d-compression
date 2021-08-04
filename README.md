@@ -97,6 +97,10 @@ NeurIPS 2020
 *Eduardo Pavez, Benjamin Girault, Antonio Ortega, Philip A. Chou*<br>
 IEEE ICIP 2020
 
+**[VoxelContext-Net: An Octree based Framework for Point Cloud Compression](https://arxiv.org/abs/2105.02158)**<br>
+*Zizheng Que, Guo Lu, Dong Xu*<br>
+CVPR 2021<br>
+
 **[Moving Basis Decomposition for Precomputed Light Transport](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14346)**<br>
 *Ari Silvennoinen, Peter-Pike Sloan*
 EGSR 2021
@@ -139,9 +143,6 @@ EuroVis 2021<br>
 *Thomas Bird, Johannes Balle, Saurabh Singh, Philip A. Chou*<br>
 IEEE PCS 2021<br>
 
-**[VoxelContext-Net: An Octree based Framework for Point Cloud Compression](https://arxiv.org/abs/2105.02158)**<br>
-*Zizheng Que, Guo Lu, Dong Xu*<br>
-CVPR 2021<br>
 
 **[]()**<br>
 **[]()**<br>
