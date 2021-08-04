@@ -95,7 +95,9 @@ EuroVis 2021<br>
 *Thomas Bird, Johannes Balle, Saurabh Singh, Philip A. Chou*<br>
 IEEE PCS 2021<br>
 
-
+**[VoxelContext-Net: An Octree based Framework for Point Cloud Compression](https://arxiv.org/abs/2105.02158)**<br>
+*Zizheng Que, Guo Lu, Dong Xu*<br>
+CVPR 2021<br>
 
 **[]()**<br>
 **[]()**<br>
