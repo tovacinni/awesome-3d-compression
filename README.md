@@ -102,7 +102,7 @@ IEEE ICIP 2020
 CVPR 2021<br>
 
 **[Moving Basis Decomposition for Precomputed Light Transport](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14346)**<br>
-*Ari Silvennoinen, Peter-Pike Sloan*
+*Ari Silvennoinen, Peter-Pike Sloan*<br>
 EGSR 2021
 
 ### Adaptive Streaming
