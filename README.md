@@ -1,6 +1,16 @@
-# 3D Compression
+# Survey of 3D Compression and Streaming
 
-This is very much work in progress. The categorizations etc are very likely to change.
+Media formats are moving beyond 1D audio and 2D images which are viewed at static viewing angles and scale
+to 3D content which are viewed from dynamic viewing angles and scale. This has broad implications in 
+gaming, virtual concerts, television, augmented reality, and more. Compression and streaming are at the core 
+of the design of the next generation of media systems, and 3D brings new challenges which require innovations 
+in algorithms as well as systems. 
+
+This repository collects papers and talks and blog posts which broadly discuss compression and streaming for
+3D content. This is an exciting field which combines computer graphics, computer vision, machine learning,
+multimedia, systems, signal processing, information theory, security, and more!
+
+This is very much work in progress and missings lots of work. The categorizations etc are very likely to change.
 
 ## Related Surveys / Position Papers / Broadly Applicable Papers
 
@@ -61,6 +71,10 @@ ACM UIST 2016<br>
 **[Project Startline: A high-fidelity telepresence system](https://research.google/pubs/pub50903/)**<br>
 *Jason Lawrence Dan B Goldman Supreeth Achar Gregory Major Blascovich Joseph G. Desloge Tommy Fortes Eric M. Gomez Sascha Häberling Hugues Hoppe Andy Huibers Claude Knaus Brian Kuschak Ricardo Martin-Brualla Harris Nover Andrew Ian Russell Steven M. Seitz Kevin Tong*<br>
 ACM Transactions on Graphics 2021<br>
+
+**[Nanite: A Deep Dive](https://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf)**<br>
+*Brian Karis, Rune Stubbe, Graham Wihlidal*<br>
+ACM SIGGRAPH 2021, Advances in Real-time Rendering in Games<br>
 
 ## Continuous Point Clouds
 
