@@ -17,7 +17,7 @@ Eurographics State-of-the-Art Reports 2014<br>
 Eurographics State-of-the-Art Reports 2015<br>
 
 **[Nonlinear Transform Coding](https://arxiv.org/abs/2007.03034)**<br>
-*Johannes Ballé, Philip A. Chou, David Minnen, Saurabh Singh, Nick Johnston, Eirikur Agustsson, Sung Jin Hwang, George Toderici*
+*Johannes Ballé, Philip A. Chou, David Minnen, Saurabh Singh, Nick Johnston, Eirikur Agustsson, Sung Jin Hwang, George Toderici*<br>
 IEEE Journal of Selected Topics in Signal Processing 2020<br>
 
 **[Toward Truly Immersive Holographic-Type Communication: Challenges and Solutions](https://ieeexplor.ieee.org/document/8970173)**<br>
@@ -71,7 +71,7 @@ ACM Transactions on Graphics 2021<br>
 Eurographics 2014
 
 **[3D point cloud compression using conventional image compression for efficient data transmission](https://ieeexplore.ieee.org/document/7340499)**<br>
-*Hamidreza Houshiar, Andreas Nuchter*
+*Hamidreza Houshiar, Andreas Nuchter*<br>
 IEEE ICAT 2015
 
 **[Compression and Rendering of Textured Point Clouds via Sparse Coding](https://diglib.eg.org/handle/10.2312/hpg20211284)**<br>
@@ -167,7 +167,7 @@ CVPR 2021
 SIGGRAPH 2021
 
 **[BACON: Band-limited Coordinate Networks for Multiscale Scene Representation](https://arxiv.org/abs/2112.04645)**<br>
-*David B. Lindell, Dave Van Veen, Jeong Joon Park, Gordon Wetzstein*
+*David B. Lindell, Dave Van Veen, Jeong Joon Park, Gordon Wetzstein*<br>
 ArXiv 2021
 
 ### Compression
