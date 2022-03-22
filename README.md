@@ -2,10 +2,23 @@
 
 This is very much work in progress. The categorizations etc are very likely to change.
 
-## Related Surveys / Position Papers
+## Related Surveys / Position Papers / Broadly Applicable Papers
+
 
 **[Compression is Again Driving the Evolution of Media](https://medium.com/making-vr-human/compression-is-again-driving-the-evolution-of-media-ac77d599d27b#.279r7yezk)**<br>
 *Philip A. Chou*<br>
+
+**[State-of-the-art in Compressed GPU-Based Direct Volume Rendering](https://www.ifi.uzh.ch/dam/jcr:00000000-1fe0-1a53-ffff-ffff94c9f943/CompressedDVR.pdf)**<br>
+*Marcos Balsa Rodríguez, Enrico Gobbetti, Jose Antonio Iglesias Guitian, Maxim Makhinya, Fabio Marton, Renato Pajarola, Susanne K Suter*<br>
+Eurographics State-of-the-Art Reports 2014<br>
+
+**[3D Mesh Compression: Survey, Comparisons, and Emerging Trends](https://dl.acm.org/doi/abs/10.1145/2693443?casa_token=KkY70WPF1oYAAAAA:qizzVOiLw7tkICfJBgdCTUvDyaTOc8Rc7-KiF5m3mR1Ady-Ec3vLOmV_5gjl52h7NiMvuqfNAKI6)**<br>
+*Adrien Maglo, Guillaume Lavoue, Florent Dupont, Celine Hudelot*<br>
+Eurographics State-of-the-Art Reports 2015<br>
+
+**[Nonlinear Transform Coding](https://arxiv.org/abs/2007.03034)**<br>
+*Johannes Ballé, Philip A. Chou, David Minnen, Saurabh Singh, Nick Johnston, Eirikur Agustsson, Sung Jin Hwang, George Toderici*
+IEEE Journal of Selected Topics in Signal Processing 2020<br>
 
 **[Toward Truly Immersive Holographic-Type Communication: Challenges and Solutions](https://ieeexplor.ieee.org/document/8970173)**<br>
 *Alexander Clemm, Maria Torres Vega, Hemanth Kumar Ravuri, Tim Wauters, Filip De Turkc*<br>
@@ -14,6 +27,10 @@ IEEE Communications Magazine 2020<br>
 **[Extremely Interactive and Low-Latency Services in 5G and Beyond Mobile Systems](https://ieeexplore.ieee.org/abstract/document/9464920)**<br>
 *Tarik Taleb, Zinelaabidine Nadir, Hannu Flinck, JaeSeung Song*<br>
 IEEE Communications Standards Magazine 2021<br>
+
+**[Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426)**<br>
+*Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, Shiqin Yan, Numair Khan, Federico Tombari, James Tompkin, Vincent Sitzmann, Srinath Sridhar*<br>
+Eurographics State-of-the-Art Reports 2022<br>
 
 ## Standards
 
@@ -33,11 +50,19 @@ APSIPA Transactions on Signal and Information Processing 2020
 
 ## Systems Papers
 
+**[GigaVoxels: ray-guided streaming for efficient and detailed voxel rendering](https://dl.acm.org/doi/abs/10.1145/1507149.1507152)**<br>
+*Cyril Crassin, Fabrice Neyret, Sylvain Lefebvre, Elmar Eisemann*<br>
+I3D 2009<br>
+
 **[Holoportation: Virtual 3D Teleportation in Real-time](https://dl.acm.org/doi/10.1145/2984511.2984517)**<br>
 *Sergio Orts-Escolano, Christoph Rhemann, Sean Fanello, Wayne Chang, Adarsh Kowdle, Yury Degtyarev, David Kim, Philip L Davidson, Sameh Khamis, Mingsong Dou, Vladimir Tankovich, Charles Loop, Qin Cai, Philip A Chou, Sarah Mennicken, Julien Valentin, Vivek Pradeep, Shenlong Wang, Sing Bing Kang, Pushmeet Kohli, Yuliya Lutchyn, Cem Keskin, Shahram Izadi*<br>
 ACM UIST 2016<br>
 
-## Point Clouds
+**[Project Startline: A high-fidelity telepresence system](https://research.google/pubs/pub50903/)**<br>
+*Jason Lawrence Dan B Goldman Supreeth Achar Gregory Major Blascovich Joseph G. Desloge Tommy Fortes Eric M. Gomez Sascha Häberling Hugues Hoppe Andy Huibers Claude Knaus Brian Kuschak Ricardo Martin-Brualla Harris Nover Andrew Ian Russell Steven M. Seitz Kevin Tong*<br>
+ACM Transactions on Graphics 2021<br>
+
+## Continuous Point Clouds
 
 ### Compression
 
@@ -68,6 +93,10 @@ IEEE Transactions of Image Processing
 IEEE Transactions of Image Processing
 
 ### Compression
+
+**[Point Cloud Attribute Compression with Graph Transform](https://ieeexplore.ieee.org/abstract/document/7025414)**<br>
+*Cha Zhang, Dinei Florencio, Charles Loop*<br>
+IEEE ICIP 2014
 
 **[Compression of 3D Point Clouds Using a Region-Adaptive Hierarchical Transform](https://ieeexplore.ieee.org/document/7482691)**<br>
 *Ricardo L. de Queiroz, Philip A. Chou*<br>
@@ -115,7 +144,11 @@ IEEE JETCAS 2019
 *Jeroen van der Hooft, Tim Wauters, Filip De Turck, Christian Timmerer, Hermann Hellwagner*<br>
 ACM MM 2019<br>
 
-## Implicit Neural Networks
+## Neural Fields
+
+Neural fields offer a new paradigm for compression which is based on function fitting (akin to some earlier
+works on compression via polynomial fitting, etc). Eventually I will write something which explains why
+neural fields might be a cool alternative / complementary to traditional voxel-adjacent compression methods.
 
 ### Representation
 
@@ -133,6 +166,10 @@ CVPR 2021
 *Julien N. P. Martel, David B. Lindell, Connor Z. Lin, Eric R. Chan, Marco Monteiro, Gordon Wetzstein*<br>
 SIGGRAPH 2021
 
+**[BACON: Band-limited Coordinate Networks for Multiscale Scene Representation](https://arxiv.org/abs/2112.04645)**<br>
+*David B. Lindell, Dave Van Veen, Jeong Joon Park, Gordon Wetzstein*
+ArXiv 2021
+
 ### Compression
 
 **[Compressive Neural Representations of Volumetric Scalar Fields](https://arxiv.org/abs/2104.04523)**<br>
@@ -143,6 +180,25 @@ EuroVis 2021<br>
 *Thomas Bird, Johannes Balle, Saurabh Singh, Philip A. Chou*<br>
 IEEE PCS 2021<br>
 
+**[NeRV: Neural Representations for Videos](https://openreview.net/forum?id=BbikqBWZTGB)**<br>
+*Hao Chen, Bo He, Hanyu Wang, Yixuan Ren, Ser-Nam Lim, Abhinav Shrivastava*<br>
+NeurIPS 2021<br>
+
+**[COIN: COmpression with Implicit Neural Representations](https://arxiv.org/abs/2103.03123)**<br>
+*Emilien Dupont, Adam Goliński, Milad Alizadeh, Yee Whye Teh, Arnaud Doucet*<br>
+ICLR 2021 Neural Compression Workshop<br>
+
+**[COIN++: Data Agnostic Neural Compression](https://arxiv.org/abs/2201.12904)**<br>
+*Emilien Dupont, Hrushikesh Loya, Milad Alizadeh, Adam Goliński, Yee Whye Teh, Arnaud Doucet*<br>
+ArXiv 2022<br>
+
+**[LVAC: Learned Volumetric Attribute Compression for Point Clouds using Coordinate Based Networks](https://arxiv.org/abs/2111.08988)**<br>
+*Berivan Isik, Philip A. Chou, Sung Jin Hwang, Nick Johnston, George Toderici*<br>
+ArXiv 2021<br>
+
+**[Implicit Neural Video Compression](https://arxiv.org/abs/2112.11312)**<br>
+*Yunfan Zhang, Ties van Rozendaal, Johann Brehmer, Markus Nagel, Taco Cohen*<br>
+ArXiv 2021<br>
 
 **[]()**<br>
 **[]()**<br>

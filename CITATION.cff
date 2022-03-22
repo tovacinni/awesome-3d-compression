@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you find this repository useful for your research, please cite it as below."
+authors:
+- family-names: "Takikawa"
+  given-names: "Towaki"
+title: "Survey of 3D Compression Papers"
+version: 2.0.4
+date-released: 2021-08-04
+url: "https://github.com/tovacinni/awesome-3d-compression"
