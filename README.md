@@ -220,6 +220,10 @@ ArXiv 2021<br>
 *Yunfan Zhang, Ties van Rozendaal, Johann Brehmer, Markus Nagel, Taco Cohen*<br>
 ArXiv 2021<br>
 
+**[Neural Motion Compression with Frequency-adaptive Fourier Feature Network](https://diglib.eg.org/handle/10.2312/egs20221033)**<br>
+*Kenji Tojo, Yifei Chen, Nobuyuki Umetani*<br>
+Eurographics 2022<br>
+
 **[]()**<br>
 **[]()**<br>
 **[]()**<br>
