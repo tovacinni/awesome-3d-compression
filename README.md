@@ -148,6 +148,12 @@ CVPR 2021<br>
 *Ari Silvennoinen, Peter-Pike Sloan*<br>
 EGSR 2021
 
+### Post-processing
+
+**[Deep Geometry Post-Processing for Decompressed Point Clouds](https://arxiv.org/abs/2204.13952)**<br>
+*Xiaoqing Fan, Ge Li, Dingquan Li, Yurui Ren, Wei Gao, Thomas H. Li*<br>
+ArXiv, 2022
+
 ### Adaptive Streaming
 
 **[Rate-Utility Optimized Streaming of Volumetric Media for Augmented Reality](https://ieeexplore.ieee.org/abstract/document/8638765)**<br>
