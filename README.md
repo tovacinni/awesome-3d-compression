@@ -224,6 +224,26 @@ ArXiv 2021<br>
 *Kenji Tojo, Yifei Chen, Nobuyuki Umetani*<br>
 Eurographics 2022<br>
 
+**[Variable Bitrate Neural Fields](https://nv-tlabs.github.io/vqad/)**<br>
+*Towaki Takikawa, Alex Evans, Jonathan Tremblay, Thomas Muller, Morgan McGuire, Alec Jacobson, Sanja Fidler*
+SIGGRAPH 2022<br>
+
+**[Variable Bitrate Neural Fields](https://nv-tlabs.github.io/vqad/)**<br>
+*Towaki Takikawa, Alex Evans, Jonathan Tremblay, Thomas Muller, Morgan McGuire, Alec Jacobson, Sanja Fidler*
+SIGGRAPH 2022<br>
+
+**[On Quantizing Implicit Neural Representations](https://openaccess.thecvf.com/content/WACV2023/html/Gordon_On_Quantizing_Implicit_Neural_Representations_WACV_2023_paper.html)**<br>
+*Cameron Gordon, Shin-Fang Chng, Lachlan MacDonald, Simon Lucey*
+WACV 2023<br>
+
+**[Masked Wavelet Representation for Compact Neural Radiance Fields](https://arxiv.org/abs/2212.09069)**<br>
+*Daniel Rho, Byeonghyeon Lee, Seungtae Nam, Joo Chan Lee, Jong Hwan Ko, Eunbyung Park*
+CVPR 2023<br>
+
+**[MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes](https://arxiv.org/abs/2302.12249)**<br>
+*Christian Reiser, Richard Szeliski, Dor Verbin, Pratul P. Srinivasan, Ben Mildenhall, Andreas Geiger, Jonathan T. Barron, Peter Hedman*
+ArXiv 2023<br>
+
 **[]()**<br>
 **[]()**<br>
 **[]()**<br>
