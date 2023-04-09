@@ -148,6 +148,10 @@ CVPR 2021<br>
 *Ari Silvennoinen, Peter-Pike Sloan*<br>
 EGSR 2021
 
+**[Volumetric Attribute Compression for 3D Point Clouds using Feedforward Network with Geometric Attention](https://arxiv.org/abs/2304.00335)**<br>
+*Tam Thuc Do, Philip A. Chou, Gene Cheung*<br>
+ICASSP 2023
+
 ### Post-processing
 
 **[Deep Geometry Post-Processing for Decompressed Point Clouds](https://arxiv.org/abs/2204.13952)**<br>
