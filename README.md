@@ -212,6 +212,10 @@ NeurIPS 2021<br>
 *Emilien Dupont, Adam Goliński, Milad Alizadeh, Yee Whye Teh, Arnaud Doucet*<br>
 ICLR 2021 Neural Compression Workshop<br>
 
+**[Implicit Neural Representations for Image Compression](https://arxiv.org/abs/2112.04267)**<br>
+*Yannick Strümpler, Janis Postels, Ren Yang, Luc Van Gool, and Federico Tombari*<br>
+ECCV 2022<br>
+
 **[COIN++: Data Agnostic Neural Compression](https://arxiv.org/abs/2201.12904)**<br>
 *Emilien Dupont, Hrushikesh Loya, Milad Alizadeh, Adam Goliński, Yee Whye Teh, Arnaud Doucet*<br>
 ArXiv 2022<br>
